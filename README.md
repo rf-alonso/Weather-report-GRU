@@ -1,6 +1,8 @@
-O objetivo era extrair os dados meteorológicos da cidade de Guarulhos nos últimos 7 dias
-e fazer um gráfico de linha onde as variáveis seriam as temperaturas mínimas e máximas de
-cada dia.O programa também foi desenvolvido com o objetivo de praticar conhecimentos envolvendo:
+O objetivo principal era extrair os dados meteorológicos da cidade de Guarulhos nos últimos 7 dias
+e filtrá-los, a fim de obter um gráfico de linha onde as variáveis são as temperaturas mínimas e máximas de
+cada dia e salvar esse gráfico em um arquivo, no caso, .png.
+
+O programa também foi desenvolvido com o objetivo de praticar conhecimentos envolvendo:
 
 1. Ambientes virtuais (.venv) para controle da versão do interpretador e suas bibliotecas;
 2. Testes dinâmicos com a ferramente Jupyter (por meio de sua extensão no VSCode);
